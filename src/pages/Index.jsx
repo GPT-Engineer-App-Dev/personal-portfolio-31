@@ -21,7 +21,7 @@ const Index = () => {
           <Heading as="h2" size="xl" mb={4}>
             About Me
           </Heading>
-          <Text fontSize="md">Hi, I'm John Doe, a passionate Full Stack Developer with experience in building web applications using modern technologies like React, Node.js, and MongoDB. I love to create efficient and scalable solutions that provide great user experiences.</Text>
+          <Text fontSize="md">Hi Fabian! Things are up and running for tomorrow's case :)</Text>
         </Box>
 
         {/* Projects Section */}
